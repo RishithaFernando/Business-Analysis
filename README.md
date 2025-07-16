@@ -16,13 +16,7 @@ The analysis focuses on evaluating the relationship between variables such as **
 - Measure **correlations** using Pearson's method
 - Apply **multiple linear regression** for deeper insight
 
-##  Project Structure
 
-business-analytics-rstudio-project/
-│
-├── project_code.R # Main R script with all analysis
-├── BA_Assignment.pdf 
-├── prestige_New.csv 
 
 
 ##  Tools & Technologies
